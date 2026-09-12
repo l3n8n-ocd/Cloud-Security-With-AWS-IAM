@@ -24,8 +24,11 @@ In this project, I will demonstrate how to secure AWS resources using AWS IAM by
 The key services I used were Amazon EC2 (to launch and manage virtual servers) and AWS IAM (to configure access policies, user groups, users, and account aliases).
 
 Key concepts I learnt include:
+
 ● Least Privilege Access: Restricting permissions so users only have the minimum access required for their role.
+
 ● Tag-Based Access Control (ABAC): Using resource tags (like Env: development) to dynamically control operations like starting or stopping instances.
+
 ● IAM Structure: Managing security efficiently using policies, user groups, and condition keys rather than assigning permissions individually.
 
 ### Project reflection
